@@ -110,7 +110,7 @@ Habitantes de zonas rurales: son los consumidores del producto, con el cual busc
 
 ## Diagramas.
 
-
+![](general.jpg)
 
 ## Bibliografía
 
