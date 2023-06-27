@@ -92,6 +92,19 @@ Habitantes de zonas rurales: son los consumidores del producto, con el cual busc
 
 ## Presupuesto
 
+| Elemento                             | Precio      |
+| ------------------------------------ | ----------- |
+| **Ingeniero 1**                      | \$2'500.000 |
+| **Ingeniero 2**                      | \$2'500.000 |
+| **Ingeniero 3**                      | \$2'500.000 |
+| Tarjeta de desarrollo FPGA           | \$659.974   |
+| Módulo LED RGB                       | \$5.018     |
+| Micro Servomotor SG90 9G             | \$13.328    |
+| Servicio de Impresión 3D             | \$20.000    |
+| Módulo lector de huella As608        | \$56.000    |
+| Arduino UNO                          | \$53.550    |
+| Insumos (PC, Internet, Luz, etc.)    | \$3'000.000 |
+| **Total**                            | **\$11'303.550** |
 
 |Cantidad | Descripcion |Valor por unidad | Total|Fuente|
 |1|FPGA|$679.058|$679.058|Amazon.com|
