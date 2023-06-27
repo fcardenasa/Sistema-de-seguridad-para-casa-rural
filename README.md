@@ -39,7 +39,7 @@ Estas áreas son más propensas a los robos debido a su aislamiento, lo que les 
 
 El informe indica que, en 2020, se registraron 16.408 casos de hurto a viviendas en zonas rurales de Colombia, lo que representa un aumento del 10,7% en comparación con el año 2019, cuando se registraron 14.823 casos.[2]
 
-#Análisis pestal
+## Análisis pestal
 
 Político:
 
@@ -67,15 +67,15 @@ Legal
 
 Ley 1551 de 2012: establece que todas las empresas de seguridad privada deben estar registradas ante la Superintendencia de Vigilancia y Seguridad Privada, y que los equipos de seguridad utilizados en las viviendas deben cumplir con las normas técnicas y de seguridad establecidas.
 
-#Antecedentes
+## Antecedentes
 
 Según el Departamento Administrativo Nacional de Estadística (DANE) de Colombia, en el año 2022 en las zonas rurales de Colombia se ubica el 23,7% de la población del país, lo que representa unos 12,2 millones de personas, por la lejanía y falta de control estas viviendas se encuentran expuestas a hurtos y saqueos que en casos se ve comprometida la integridad de las personas en el lugar de los hechos. Según un informe de seguridad superior en Colombia, las estadísticas generales respecto al robo con violencia son alarmantes en sí mismas, el robo específico a inmuebles últimamente está prendiendo las alarmas de las autoridades, en especial debido al aumento de casos que suele presentarse en época de vacaciones. De acuerdo con el último registro compartido por la Policía Nacional, este año se han denunciado más de 20.275 hurtos a viviendas (alrededor de un caso cada 20 minutos). [1][2]
 
-#Solución
+## Solución
 
 Implementación de un sistema de seguridad capaz de avisar que se está llevando a cabo un robo en una vivienda.
 
-#Objetivos
+## Objetivos
 
 General
 
@@ -86,13 +86,13 @@ Específicos
 Obtener un diseño accesible, replicable e implementable por personas que habiten en zonas rurales
 Implementar en el diseño conocimientos de lógica combinacional y secuencial 
 
-#Actores
+## Actores
 
 Habitantes de zonas rurales: son los consumidores del producto, con el cual buscan obtener una mayor seguridad en sus hogares.
 
-#Presupuesto
+## Presupuesto
 
-#Bibliografía
+## Bibliografía
 
 1.Seguridad Superior. (2021). Cifras de inseguridad y robo en Colombia. Recuperado el 7 de mayo de 2023, de https://www.seguridadsuperior.com.co/cifras-de-inseguridad-y-robo-en-colombia
 
