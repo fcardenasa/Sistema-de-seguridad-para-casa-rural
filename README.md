@@ -108,6 +108,9 @@ Habitantes de zonas rurales: son los consumidores del producto, con el cual busc
 | 4.7k Potential meter   | \$500 |
 | **Total**                            | **\$762.466** |
 
+## Diagramas.
+
+
 
 ## Bibliografía
 
