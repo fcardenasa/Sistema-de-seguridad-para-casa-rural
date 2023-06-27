@@ -96,11 +96,11 @@ Habitantes de zonas rurales: son los consumidores del producto, con el cual busc
 | ------------------------------------ | ----------- |
 | FPGA                                 | \$679.058   |
 | Magnetic Door Window Contact Reed Switch| \$44.365 |
-| **Ingeniero 3**                      | \$2'500.000 |
-| Tarjeta de desarrollo FPGA           | \$659.974   |
-| Módulo LED RGB                       | \$5.018     |
-| Micro Servomotor SG90 9G             | \$13.328    |
-| Servicio de Impresión 3D             | \$20.000    |
+| Breadboard                      | \$58.806 |
+| Breadboard jumper wires           | \$23.043  |
+| 10x 40-Pin Male Header 0.1" (2.54mm)                     | \$15.392     |
+| 3 Colour RGB SMD LED Module 5050 full color            | \$17.927    |
+| Adjust IR Pyroelectric Infrared IR PIR Motion Sensor            | \$36.216    |
 | Módulo lector de huella As608        | \$56.000    |
 | Arduino UNO                          | \$53.550    |
 | Insumos (PC, Internet, Luz, etc.)    | \$3'000.000 |
