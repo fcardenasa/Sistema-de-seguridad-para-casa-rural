@@ -95,7 +95,7 @@ Habitantes de zonas rurales: son los consumidores del producto, con el cual busc
 | Elemento                             | Precio      |
 | ------------------------------------ | ----------- |
 | FPGA                                 | \$679.058   |
-| **Ingeniero 2**                      | \$2'500.000 |
+| Magnetic Door Window Contact Reed Switch| \$44.365 |
 | **Ingeniero 3**                      | \$2'500.000 |
 | Tarjeta de desarrollo FPGA           | \$659.974   |
 | Módulo LED RGB                       | \$5.018     |
