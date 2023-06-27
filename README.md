@@ -120,6 +120,10 @@ Diagrama de estados de la contraseña.
 
 ![](estadosClave.jpg)
 
+Diagramas de estados de la transmisión UART.
+
+
+
 ## Bibliografía
 
 1.Seguridad Superior. (2021). Cifras de inseguridad y robo en Colombia. Recuperado el 7 de mayo de 2023, de https://www.seguridadsuperior.com.co/cifras-de-inseguridad-y-robo-en-colombia
