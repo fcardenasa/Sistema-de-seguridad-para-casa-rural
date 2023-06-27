@@ -110,7 +110,15 @@ Habitantes de zonas rurales: son los consumidores del producto, con el cual busc
 
 ## Diagramas.
 
+Diagrama de caja negra.
+
 ![](general.jpg)
+
+Diagrama de caja gris.
+
+Diagrama de estados de la contraseña.
+
+![](estadosClave.jpg)
 
 ## Bibliografía
 
