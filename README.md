@@ -94,7 +94,7 @@ Habitantes de zonas rurales: son los consumidores del producto, con el cual busc
 
 | Elemento                             | Precio      |
 | ------------------------------------ | ----------- |
-| **Ingeniero 1**                      | \$2'500.000 |
+| FPGA                                 | \$679.058   |
 | **Ingeniero 2**                      | \$2'500.000 |
 | **Ingeniero 3**                      | \$2'500.000 |
 | Tarjeta de desarrollo FPGA           | \$659.974   |
@@ -106,7 +106,7 @@ Habitantes de zonas rurales: son los consumidores del producto, con el cual busc
 | Insumos (PC, Internet, Luz, etc.)    | \$3'000.000 |
 | **Total**                            | **\$11'303.550** |
 
-|Cantidad | Descripcion |Valor por unidad | Total|Fuente|
+
 |1|FPGA|$679.058|$679.058|Amazon.com|
 |2|Magnetic Door Window Contact Reed Switch|$44.365$88.730|eBay.com|
 |1|Breadboard|$58.806|$58.806|eBay.com|
