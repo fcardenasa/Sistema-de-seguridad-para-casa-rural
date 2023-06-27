@@ -92,6 +92,26 @@ Habitantes de zonas rurales: son los consumidores del producto, con el cual busc
 
 ## Presupuesto
 
+
+|Cantidad | Descripcion |Valor por unidad | Total|Fuente|
+|1|FPGA|$679.058|$679.058|Amazon.com|
+|2|Magnetic Door Window Contact Reed Switch|$44.365$88.730|eBay.com|
+|1|Breadboard|$58.806|$58.806|eBay.com|
+|1|Breadboard jumper wires|$23.043|$23.043|eBay.com|
+|1|10x 40-Pin Male Header 0.1" (2.54mm)|$15.392|$15.392|eBay.com|
+|1|3 Colour RGB SMD LED Module 5050 full color|$17.927|$17.927|eBay.com|
+|1|Adjust IR Pyroelectric Infrared IR PIR Motion Sensor|$36.216|$36.216|eBay.com|
+|1|Active Buzzer Alarm Module Sensor Beep|$27.117|$27.117|eBay.com|
+|1|5V Four 4 Channel Relay Module With opt coupler|$25.035|$25.035|eBay.com|
+|1|4 x 4 Matrix Array 12 Key Membrane Switch Keypad|$15.799|$15.799eBay.com|
+|4|Red LED|$200|$800||
+|4|Green LED|$200|$800||
+|2|4.7k Potential meter|$500|$1.000||
+|2|220 ohms resistor|$100|$400||
+|1|Servo|$45.225|$45.225|eBay.com|
+|1|Form board|$27.117|$27.117|Staples|
+||Total:|$1.062.466|||
+
 ## Bibliografía
 
 1.Seguridad Superior. (2021). Cifras de inseguridad y robo en Colombia. Recuperado el 7 de mayo de 2023, de https://www.seguridadsuperior.com.co/cifras-de-inseguridad-y-robo-en-colombia
