@@ -116,6 +116,8 @@ Diagrama de caja negra.
 
 Diagrama de caja gris.
 
+![](diagGrande.jpg)
+
 Diagrama de estados de la contraseña.
 
 ![](estadosClave.jpg)
