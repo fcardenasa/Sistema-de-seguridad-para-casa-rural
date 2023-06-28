@@ -117,7 +117,7 @@ Habitantes de zonas rurales: son los consumidores del producto, con el cual busc
 
 Diagrama de caja negra.
 
-![](general.jpg)
+![](image.png)
 
 Diagrama de caja gris.
 
