@@ -147,6 +147,20 @@ Diagrama FSM.
 
 ![](fsmRecepcion.jpg)
 
+##Simulaciones
+Se muestra la simulación de los componentes "sistema", el cual gestiona la activación del sistema mediante una clave, y el cambio de esta; y "transmisión" el cual a partir de la información recolectada por los sensores, transmite datos a un celular.
+
+Iniciando con "sistema"
+![](sim1.png)
+![](sim2.png)
+![](sim3.png)
+![](sim4.png)
+![](sim5.png)
+![](sim6.png)
+![](sim7.png)
+
+En las imagenes anteriores, se puede observar como dependiendo de la calve ingresada, y de las entradas comprobar y cambiar, varían los valores de la clave misma, el estado del sistema, y la alarma (la alarma se activa cuando su valor es 0).
+
 ## Bibliografía
 
 1.Seguridad Superior. (2021). Cifras de inseguridad y robo en Colombia. Recuperado el 7 de mayo de 2023, de https://www.seguridadsuperior.com.co/cifras-de-inseguridad-y-robo-en-colombia
