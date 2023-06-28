@@ -147,10 +147,10 @@ Diagrama FSM.
 
 ![](fsmRecepcion.jpg)
 
-##Simulaciones
+## Simulaciones
 Se muestra la simulación de los componentes "sistema", el cual gestiona la activación del sistema mediante una clave, y el cambio de esta; y "transmisión" el cual a partir de la información recolectada por los sensores, transmite datos a un celular.
 
-Simualción de "sistema"
+Simulación de "sistema"
 ![](sim1.png)
 ![](sim2.png)
 ![](sim3.png)
@@ -166,6 +166,22 @@ Simulación de "transmisión"
 ![](sim_trans.png)
 
 Acá se puede observar que, siendo start el dato enviado por el sensor PIR y que un 1 es que detecta presencia, entonces tx va a transmitir información (tx = 0) cuando el PIR detecta presencia, y no transmitirá cuando el PIR no detecte.
+
+## Fotografías del montaje
+
+![](s1.png)
+![](s2.png)
+![](s3.png)
+![](s4.png)
+![](s5.png)
+![](s6.png)
+![](s7.png)
+![](s8.png)
+![](s9.png)
+
+## Video de funcionamiento
+
+
 
 ## Bibliografía
 
