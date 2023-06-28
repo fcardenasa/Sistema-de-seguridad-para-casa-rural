@@ -169,15 +169,15 @@ Acá se puede observar que, siendo start el dato enviado por el sensor PIR y que
 
 ## Fotografías del montaje
 
-![](s1.png)
-![](s2.png)
-![](s3.png)
-![](s4.png)
-![](s5.png)
-![](s6.png)
-![](s7.png)
-![](s8.png)
-![](s9.png)
+![](s1.jpg)
+![](s2.jpg)
+![](s3.jpg)
+![](s4.jpg)
+![](s5.jpg)
+![](s6.jpg)
+![](s7.jpg)
+![](s8.jpg)
+![](s9.jpg)
 
 ## Video de funcionamiento
 
