@@ -165,6 +165,8 @@ Simulación de "transmisión"
 
 ![](sim_trans.png)
 
+Acá se puede observar que, siendo start el dato enviado por el sensor PIR y que un 1 es que detecta presencia, entonces tx va a transmitir información (tx = 0) cuando el PIR detecta presencia, y no transmitirá cuando el PIR no detecte.
+
 ## Bibliografía
 
 1.Seguridad Superior. (2021). Cifras de inseguridad y robo en Colombia. Recuperado el 7 de mayo de 2023, de https://www.seguridadsuperior.com.co/cifras-de-inseguridad-y-robo-en-colombia
