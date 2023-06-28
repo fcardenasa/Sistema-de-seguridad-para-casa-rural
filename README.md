@@ -102,11 +102,16 @@ Habitantes de zonas rurales: son los consumidores del producto, con el cual busc
 | Servo           | \$45.225    |
 | Adjust IR Pyroelectric Infrared IR PIR Motion Sensor            | \$36.216    |
 | Active Buzzer Alarm Module Sensor Beep       | \$27.117   |
-| 5V Four 4 Channel Relay Module With opt coupler                        | \$25.035   |
-| 4 x 4 Matrix Array 12 Key Membrane Switch Keypad   | \$3'000.000 |
+| Bidirectional logic level conversor 5 TO 3,3 OR 3,3 TO 5 V      | \$11.000   |
+| Bluetooth module HC-06   | \$18.999 |
 | 220 ohms resistor   | \$100 |
 | 4.7k Potential meter   | \$500 |
-| **Total**                            | **\$762.466** |
+| Balsa Wood sheets  | \$25.000 |
+| Porcelainron   | \$16.500 |
+| Balsa wood glue  | \$9.100 |
+| Clamp and lace  | \$2.900 |
+| Tools   | \$30.199 |
+| **Total**                            | **\$832.466** |
 
 ## Diagramas.
 
