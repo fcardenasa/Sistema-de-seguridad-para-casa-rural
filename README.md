@@ -169,14 +169,32 @@ Acá se puede observar que, siendo start el dato enviado por el sensor PIR y que
 
 ## Fotografías del montaje
 
-![](s1.jpg)
-![](s2.jpg)
-![](s3.jpg)
-![](s4.jpg)
-![](s5.jpg)
+Imágen general
+
 ![](s6.jpg)
+
+Imágen de la aplicación de comunicación UART
+
+![](s1.jpg)
+
+Imágen de la maqueta
+
+![](s2.jpg)
+
+Imágen del circuito
+
+![](s4.jpg)
+
+Imágen del servomotor
+
 ![](s7.jpg)
+
+Imágen del PIR 1
+
 ![](s8.jpg)
+
+Imágen del PIR 2
+
 ![](s9.jpg)
 
 ## Video de funcionamiento
