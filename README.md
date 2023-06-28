@@ -130,7 +130,7 @@ Diagrama Algorítmico.
 
 Diagrama FSM.
 
-
+![](fsmTransmision.jpg)
 
 Diagramas de estados de la recepción UART.
 
@@ -140,7 +140,7 @@ Diagrama Algorítmico.
 
 Diagrama FSM.
 
-
+![](fsmRecepcion.jpg)
 
 ## Bibliografía
 
