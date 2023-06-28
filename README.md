@@ -122,6 +122,22 @@ Diagrama de estados de la contraseña.
 
 Diagramas de estados de la transmisión UART.
 
+Diagrama Algorítmico.
+
+![](algTransmision.jpg)
+
+Diagrama FSM.
+
+
+
+Diagramas de estados de la recepción UART.
+
+Diagrama Algorítmico.
+
+![](algRecepcion.jpg)
+
+Diagrama FSM.
+
 
 
 ## Bibliografía
