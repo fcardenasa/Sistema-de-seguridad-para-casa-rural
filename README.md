@@ -150,7 +150,7 @@ Diagrama FSM.
 ##Simulaciones
 Se muestra la simulación de los componentes "sistema", el cual gestiona la activación del sistema mediante una clave, y el cambio de esta; y "transmisión" el cual a partir de la información recolectada por los sensores, transmite datos a un celular.
 
-Iniciando con "sistema"
+Simualción de "sistema"
 ![](sim1.png)
 ![](sim2.png)
 ![](sim3.png)
@@ -159,7 +159,11 @@ Iniciando con "sistema"
 ![](sim6.png)
 ![](sim7.png)
 
-En las imagenes anteriores, se puede observar como dependiendo de la calve ingresada, y de las entradas comprobar y cambiar, varían los valores de la clave misma, el estado del sistema, y la alarma (la alarma se activa cuando su valor es 0).
+En las imagenes anteriores, se puede observar como dependiendo de la clave ingresada, y de las entradas comprobar y cambiar, varían los valores de la clave misma, el estado del sistema, y la alarma (la alarma está en estado activo cuando su valor es 0). La alarma se activa cuando se cometen 3 errores al intentar ingresar la clave.
+
+Simulación de "transmisión"
+
+![](sim_trans.png)
 
 ## Bibliografía
 
